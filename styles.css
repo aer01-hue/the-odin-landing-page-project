@@ -103,6 +103,23 @@ button {
     justify-content: center;
 }
 
+.rounded {
+    border-radius: 10px;
+    }
+
+.rounded_cup2 {
+        border-radius: 10px;
+
+}
+
+.rounded_tumbler1 {
+        border-radius: 10px;
+}
+
+.rounded_tumbler2 {
+        border-radius: 10px;
+}
+
 .merch .image_container {
     display: flex;
     justify-content:center;
